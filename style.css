@@ -32,7 +32,7 @@ nav a {
   /* 부모 색상 사용 */
   padding: 0.5em;
   /* 안쪽 여백을 어떻게 할것인지*/
-  border-bottom: 0.4em solid transparent; /* 크기 변화되는것 방지 추가 */ 
+  border-bottom: 0.4em solid transparent; /* 크기 변화되는것 방지 추가*/
 }
 
 /* 현재 페이지 강조 */
